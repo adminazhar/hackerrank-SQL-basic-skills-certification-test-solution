@@ -24,3 +24,6 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/b8d32dd
 <a href="https://www.youtube.com/gothamcoding">
   <img align="left" alt="Gotham Coding's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+
+## New Questions?
+If any new questions comes other than these, make sure to create PR/Issue.
