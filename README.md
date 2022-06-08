@@ -13,7 +13,7 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/b8d32dd
 - [Profitable Stocks](profitable-stocks.sql)
 - [Merit Rewards](merit-rewards.sql)
 
-
+## Follow me
 
 <a href="https://www.linkedin.com/in/azhark/">
   <img align="left" alt="Azhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
