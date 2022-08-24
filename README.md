@@ -29,3 +29,5 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/b8d32dd
 
 ## New Questions?
 If any new questions comes other than these, make sure to create PR/Issue.
+
+Will be adding SQL Advanced Questions soon in separate repo.
